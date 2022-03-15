@@ -5,6 +5,8 @@ A Telegram Bot to download manga from mangasee using [kamyabazad mangasee downlo
 
 This bot is for personal use though you can change it for public use too
 
+Please note that I don't encourage downloading copyrighted content. You must support your favorite artists by purchasing their work if you're able to
+
 <br></br>
  <p align='center'>
   <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-00ead3.svg?style=flat-square&logo=python&logoColor=00ead3&color=00ead3" /> </a>
@@ -25,6 +27,11 @@ This bot is for personal use though you can change it for public use too
 - [Known Issues](#known-issues)
 - [Creator](#creator)
 
+
+# What's Mangasee123?
+It's a manga archive website with a collection of more than 6600 mangas. You could visit it [[https://mangasee123.com/][here]].
+
+
 # Features
 
 - Manga Pdfs:- This bot downloads manga in pdf format to make it convenient to read
@@ -43,6 +50,8 @@ This bot is for personal use though you can change it for public use too
 
 ### Setup
 - Upload sample.json given in repository in the channel, copy the link of the file and extract message id (last number of the link) and use it for `DATABASE` env variable
+
+
 
 # Command Details
 ## Get Mangaid
@@ -78,6 +87,7 @@ This bot uses mangasee to download chapters so you need to use mangaids mangasee
 
 - `/show`:- Shows Database in telegram messages<br />
    use:- /show
+
 
 
 # Environment Variables
