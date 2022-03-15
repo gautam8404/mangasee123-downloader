@@ -98,7 +98,7 @@ To run this project, you will need to add the following environment variables to
 
 ## Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/gautam8404/Anime_news_bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/gautam8404/mangasee123-downloader)
 
 # Known Issues
 
