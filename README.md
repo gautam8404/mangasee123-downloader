@@ -92,7 +92,7 @@ To run this project, you will need to add the following environment variables to
 
 - `CHANNEL_ID` public/private channel id to store database (mangaid and updated chapters) within channel
 
-- `DATABSE` a dummy message id of a message for database
+- `DATABSE` message id of [json file](##how-to-setup-database) in channel
 
 # Deployment 
 
@@ -107,3 +107,4 @@ To run this project, you will need to add the following environment variables to
 # Creator
 
 - [Gautam8404](https://github.com/Gautam8404)
+- Mangasee Dl by [kamyabazad](https://github.com/kamyabzad)
