@@ -1,6 +1,13 @@
 
 # Manga Gallery Manager
 
+<br></br>
+ <p align='center'>
+  <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-00ead3.svg?style=flat-square&logo=python&logoColor=00ead3&color=00ead3" /> </a>
+  <a href="https://github.com/MiyukiKun/Manga_Gallery_Manager/" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-Yes-green.svg?style=flat-square&logo=serverless&logoColor=00ead3&color=00ead3" /> </a>
+</p>
+<br></br>
+
 A Telegram Bot to download manga from mangasee using [kamyabazad mangasee downloader](https://github.com/kamyabzad/mangasee123-downloader)
 
 This bot is for personal use though you can change it for public use too
@@ -11,6 +18,7 @@ Please note that I don't encourage downloading copyrighted content. You must sup
 # Table of Content
 - [Manga Gallery Manager](#manga-gallery-manager)
 - [Table of Content](#table-of-content)
+- [What's Mangasee123?](#whats-mangasee123)
 - [Features](#features)
 - [Database Help](#database-help)
   - [How To Set Up Database?](#how-to-set-up-database)
@@ -116,9 +124,3 @@ To run this project, you will need to add the following environment variables to
 - [Gautam8404](https://github.com/Gautam8404)
 - Mangasee Dl by [kamyabazad](https://github.com/kamyabzad)
 
-<br></br>
- <p align='center'>
-  <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-00ead3.svg?style=flat-square&logo=python&logoColor=00ead3&color=00ead3" /> </a>
-  <a href="https://github.com/MiyukiKun/Manga_Gallery_Manager/" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-Yes-green.svg?style=flat-square&logo=serverless&logoColor=00ead3&color=00ead3" /> </a>
-</p>
-<br></br>
