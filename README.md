@@ -31,7 +31,7 @@ Please note that I don't encourage downloading copyrighted content. You must sup
 
 
 # What's Mangasee123?
-It's a manga archive website with a collection of more than 6600 mangas. You could visit it [[https://mangasee123.com/][here]].
+It's a manga archive website with a collection of more than 6600 mangas. You could visit it [here](https://mangasee123.com/).
 
 
 # Features
