@@ -53,31 +53,31 @@ This bot uses mangasee to download chapters so you need to use mangaids mangasee
 ## Command Help
 
 - `/download`:- Downloads given chapter of given mangaid 
-- use:- /download mangaid:chapter
+   use:- /download mangaid:chapter
 
 - `/batch`:- Downloads multiple chapters at once
-- use:- /batch mangaid:ch_start:ch_end
+   use:- /batch mangaid:ch_start:ch_end
 
 - `/add`:- Adds manga in database
-- use:- /add mangaid:latest_chapter  
+   use:- /add mangaid:latest_chapter  
 
 - `/remove`:- Removes manga in database
-- use:- /remove mangaid
+   use:- /remove mangaid
 
 - `/checkupdates`:- checks updates for added ongoing manga and list them
-- use:- /checkupdates
+   use:- /checkupdates
 
 - `/updateall`:- Download updates for all of the manga in database
-- use:- /updateall
+   use:- /updateall
 
 - `/backup`:- Makes a backup for manga in database
-- use:- /backup
+   use:- /backup
 
 - `/restore`:- Restores manga database from give backup file
-- use:- /restore replied to the backup file
+   use:- /restore replied to the backup file
 
 - `/show`:- Shows Database in telegram messages
-- use:- /show
+   use:- /show
 
 
 # Environment Variables
