@@ -7,12 +7,6 @@ This bot is for personal use though you can change it for public use too
 
 Please note that I don't encourage downloading copyrighted content. You must support your favorite artists by purchasing their work if you're able to
 
-<br></br>
- <p align='center'>
-  <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-00ead3.svg?style=flat-square&logo=python&logoColor=00ead3&color=00ead3" /> </a>
-  <a href="https://github.com/MiyukiKun/Manga_Gallery_Manager/" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-Yes-green.svg?style=flat-square&logo=serverless&logoColor=00ead3&color=00ead3" /> </a>
-</p>
-<br></br>
 
 # Table of Content
 - [Manga Gallery Manager](#manga-gallery-manager)
@@ -43,7 +37,9 @@ It's a manga archive website with a collection of more than 6600 mangas. You cou
 # Databse help:-
 - This bot stores a json file in give telegram channel which stores mangaid and latest chapter (or latest chapter u have read), to use this feature you need to provide [channel id](###extract-channel-id), an [empty json file](###setup) and [message id](###setup)
 
+
 ## How To Setup Database
+
 ### Extract Channel ID
 - Reccomended to use private channel
 - To extract channel id you can copy link of a message in channel, the element after /c/ in link is channel id, for private channel you need to add "-100" before channel id for example if channel id is "27384949" channel id for `CHANNEL_ID` env varible will be "-10027384949"
@@ -54,6 +50,7 @@ It's a manga archive website with a collection of more than 6600 mangas. You cou
 
 
 # Command Details
+
 ## Get Mangaid
 This bot uses mangasee to download chapters so you need to use mangaids mangasee uses which you can extract from thier url
 
@@ -118,3 +115,10 @@ To run this project, you will need to add the following environment variables to
 
 - [Gautam8404](https://github.com/Gautam8404)
 - Mangasee Dl by [kamyabazad](https://github.com/kamyabzad)
+
+<br></br>
+ <p align='center'>
+  <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-00ead3.svg?style=flat-square&logo=python&logoColor=00ead3&color=00ead3" /> </a>
+  <a href="https://github.com/MiyukiKun/Manga_Gallery_Manager/" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-Yes-green.svg?style=flat-square&logo=serverless&logoColor=00ead3&color=00ead3" /> </a>
+</p>
+<br></br>
