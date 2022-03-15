@@ -1,0 +1,44 @@
+{
+    "name": "Anime Gallery Bot",
+    "description": "Telegram Bot for downloading manga from mangasee using [kamyabazad mangasee downloader](https://github.com/kamyabzad/mangasee123-downloader)",
+    "keywords": [
+      "telegram",
+      "best",
+      "manga",
+      "manga download"
+    ],
+    "success_url": "https://t.me/Manga_Gallery_Robot",
+    "website": "https://github.com/Gautam8404",
+    "repository": "https://github.com/MiyukiKun/Anime_Gallery_Bot",
+    "env": {
+      "API_ID": {
+        "description": "Get this value from https://my.telegram.org",
+        "value": ""
+      },
+      "API_HASH": {
+        "description": "Get this value from https://my.telegram.org",
+        "value": ""
+      },
+       "BOT_TOKEN": {
+        "description": "Your bot token, as a string. Get it from @BotFather on telegram",
+        "value": ""
+      },
+      "CHANNEL_ID": {
+       "description": "private/public channel id to store databse of the bot that is manga id, format for manga and latest chapter for updates",
+       "value": ""
+     },
+      "DATABASE": {
+       "description": "msgid for json database to be stored within telegram",
+       "value": ""
+     }
+    },
+    "buildpacks": [{
+      "url": "heroku/python"
+    }],
+    "formation": {
+      "worker": {
+        "quantity": 1,
+        "size": "free"
+      }
+    }
+  }
